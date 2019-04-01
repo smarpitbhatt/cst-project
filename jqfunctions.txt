@@ -1,0 +1,15 @@
+ob.addClass('Classname');
+ob.removeClass('Classname');
+----------------------------------------
+ob.toggleClass('Classname');
+-----------------------------------------
+$(window).height()
+ob.height(something);    //sets height;
+-----------------------------------------
+$("#textarea").on('change keyup paste', function() {
+	
+});
+--------------------------------
+
+javascript eval() function
+-----------------------
